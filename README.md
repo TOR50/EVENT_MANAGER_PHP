@@ -9,7 +9,6 @@ Event Management System The Event Management System is a web-based application d
 ![Event Management System](event_management/assets/images/5.jpeg)
 ![Event Management System](event_management/assets/images/6.jpeg)
 ![Event Management System](event_management/assets/images/7.jpeg)
-![Event Management System](event_management/assets/images/8.jpeg)
 ![Event Management System](event_management/assets/images/9.jpeg)
 ![Event Management System](event_management/assets/images/10.jpeg)
 ![Event Management System](event_management/assets/images/11.jpeg)
