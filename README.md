@@ -1,6 +1,11 @@
 # EVENT_MANAGER_PHP
 Event Management System The Event Management System is a web-based application designed to help users organize, manage, and participate in events with ease. This system provides a comprehensive solution for event organizers and participants, offering features such as event creation, participant management, and detailed analytics.
 
+
+![Event Management System](event_management/assets/images/01.jpeg)
+
+
+
 ## Features
 
 - **User Authentication**: Secure login and registration system with role-based access control (admin and user roles).
