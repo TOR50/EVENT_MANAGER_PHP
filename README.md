@@ -44,7 +44,7 @@ user/
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/event_management.git
+    git clone https://github.com/TOR50/EVENT_MANAGER_PHP.git
     ```
 2. Navigate to the project directory:
     ```sh
