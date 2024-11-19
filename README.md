@@ -80,10 +80,7 @@ config.php
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
 
-For any inquiries or support, please contact [yourname@example.com](mailto:yourname@example.com).
+For any inquiries or support, please contact [rauhan.official@gmail.com](mailto:rauhan.official@gmail.com).
