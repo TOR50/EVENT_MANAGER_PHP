@@ -2,12 +2,19 @@
 Event Management System The Event Management System is a web-based application designed to help users organize, manage, and participate in events with ease. This system provides a comprehensive solution for event organizers and participants, offering features such as event creation, participant management, and detailed analytics.
 
 
-![Event Management System](event_management/assets/images/01.jpeg)
-![Event Management System](event_management/assets/images/02.jpeg)
-![Event Management System](event_management/assets/images/03.jpeg)
-![Event Management System](event_management/assets/images/04.jpeg)
-![Event Management System](event_management/assets/images/05.jpeg)
-![Event Management System](event_management/assets/images/06.jpeg)
+![Event Management System](event_management/assets/images/1.jpeg)
+![Event Management System](event_management/assets/images/2.jpeg)
+![Event Management System](event_management/assets/images/3.jpeg)
+![Event Management System](event_management/assets/images/4.jpeg)
+![Event Management System](event_management/assets/images/5.jpeg)
+![Event Management System](event_management/assets/images/6.jpeg)
+![Event Management System](event_management/assets/images/7.jpeg)
+![Event Management System](event_management/assets/images/8.jpeg)
+![Event Management System](event_management/assets/images/9.jpeg)
+![Event Management System](event_management/assets/images/10.jpeg)
+![Event Management System](event_management/assets/images/11.jpeg)
+![Event Management System](event_management/assets/images/12.jpeg)
+![Event Management System](event_management/assets/images/13.jpeg)
 
 
 
