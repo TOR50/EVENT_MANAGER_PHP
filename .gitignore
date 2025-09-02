@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+vendor/
+
+# Environment
+.env
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build
+/event_management/dist/
+# Wait, for PHP production without build step on server, we might WANT dist committed.
+# But usually best practice is to build on server. 
+# However, user requested "upload to github" and "host for free".
+# Free hosts usually don't run npm install/build.
+# So we SHOULD commit dist folder.
+# Removing dist from ignore for this specific user case.
+
+# IDE
+.vscode/
+.idea/
+
+# Local PHP Assets
+php_bin/
+*.ps1
+
