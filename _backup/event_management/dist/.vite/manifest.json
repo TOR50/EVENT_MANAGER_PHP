@@ -1,0 +1,23 @@
+{
+  "event_management/assets/css/style.css": {
+    "file": "assets/style-C1Ty2k2V.css",
+    "src": "event_management/assets/css/style.css",
+    "isEntry": true
+  },
+  "event_management/assets/images/hero-bg.png": {
+    "file": "assets/hero-bg-Du8TGp2p.png",
+    "src": "event_management/assets/images/hero-bg.png"
+  },
+  "event_management/assets/js/main.js": {
+    "file": "assets/main-CK7gDANg.js",
+    "name": "main",
+    "src": "event_management/assets/js/main.js",
+    "isEntry": true,
+    "css": [
+      "assets/style-C1Ty2k2V.css"
+    ],
+    "assets": [
+      "assets/hero-bg-Du8TGp2p.png"
+    ]
+  }
+}
